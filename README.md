@@ -38,6 +38,3 @@ Berdasarkan visualisasi distribusi waktu pengiriman (*KDE & Histogram Plot*), di
 * **Zona Bahaya Operasional:** Ekor grafik distribusi menunjukkan adanya *outliers* pesanan yang memakan waktu hingga di atas 30 hari, yang berpotensi menurunkan tingkat kepuasan pelanggan secara drastis.
 
 ---
-│
-├── .gitignore            # Git exclusion settings (.venv & data/)
-└── README.md             # Dokumentasi proyek
